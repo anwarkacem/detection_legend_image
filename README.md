@@ -1,1 +1,0 @@
-# detection_legend_image
